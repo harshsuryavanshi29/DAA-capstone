@@ -1,0 +1,3 @@
+hello huffman world this is a test file for compression using huffman coding algorithm
+the quick brown fox jumps over the lazy dog the fox was very quick indeed
+data structures and algorithms are the foundation of computer science

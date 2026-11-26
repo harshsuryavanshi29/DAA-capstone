@@ -1,0 +1,10 @@
+# Dynamic File Compression Utility — Requirements
+# Core: uses only Python standard library
+# No third-party packages required for core functionality
+
+# Optional: for running unit tests
+pytest>=7.0
+
+# Optional: for visualizations/analysis notebooks
+# matplotlib>=3.5
+# jupyter>=1.0

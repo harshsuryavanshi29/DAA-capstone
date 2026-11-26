@@ -1,0 +1,42 @@
+Compression Report
+========================================
+original_chars                : 231
+unique_chars                  : 28
+original_size_bits            : 1848
+original_size_bytes           : 231
+compressed_size_bits          : 1008
+compressed_size_bytes         : 127
+compression_ratio             : 0.5455
+space_savings_pct             : 45.45
+avg_code_length               : 4.3506
+
+Huffman Codes:
+========================================
+  ' '         : 110
+  'h'         : 0000
+  'n'         : 0001
+  's'         : 0011
+  'r'         : 0100
+  'a'         : 0101
+  'i'         : 0110
+  't'         : 1000
+  'e'         : 1010
+  'o'         : 1110
+  'g'         : 00100
+  'l'         : 01111
+  'm'         : 10010
+  'd'         : 10011
+  'c'         : 10110
+  'f'         : 11110
+  'u'         : 11111
+  '\n'        : 001010
+  'p'         : 001011
+  'w'         : 011100
+  'x'         : 0111010
+  'y'         : 0111011
+  'q'         : 1011101
+  'v'         : 1011110
+  'b'         : 10111000
+  'j'         : 10111001
+  'z'         : 10111110
+  'k'         : 10111111
